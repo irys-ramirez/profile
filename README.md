@@ -10,9 +10,7 @@
 
 ## Professional Summary
 
-Customer Success Engineer with 15+ years of experience advancing from Linux systems and enterprise infrastructure engineering into customer-facing technical architecture roles.
-
-Customer Success Engineer & Technical Advisor with 5+ years delivering strategic and architectural results for enterprise accounts, by over a decade of hands-on enterprise operating systems, cloud platforms, and virtualization.
+Customer Success Engineer & Technical Advisor with 5+ years delivering strategic and architectural results for enterprise accounts in customer-facing position, grounded with over a decade of hands-on enterprise operating systems, cloud platforms, and virtualization.
 
 Trusted advisor to enterprise stakeholders, specializing in **Enterprise architecture in hybrid, multi-cloud, and heterogeneous platforms, and strategic customer success**. Proven success leading cloud transformations, improving reliability, resolving critical incidents, and driving long-term customer growth through technical leadership.
 
