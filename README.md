@@ -1,6 +1,6 @@
-# Monica Iris Ramirez
+# Iris Ramirez
 
-**Senior Customer Success Engineer | Cloud Infrastructure & Enterprise Linux Expert**
+**Customer Success Engineer | Technical Account Manager | Solutions Engineer**
 
 📍 Mexico
 📧 [irys.ramirez@gmail.com](mailto:irys.ramirez@gmail.com)
